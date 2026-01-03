@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">الورشة - AlWarshah</string>
+    <string name="welcome_text">مرحباً بك في الورشة\nWelcome to Al-Warshah</string>
+    <string name="email_hint">البريد الإلكتروني / Email</string>
+    <string name="password_hint">كلمة المرور / Password</string>
+    <string name="login_button">دخول / Login</string>
+    <string name="register_button">تسجيل جديد / Register</string>
+</resources>
